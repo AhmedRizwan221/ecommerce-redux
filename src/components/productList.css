@@ -1,0 +1,7 @@
+.product-list-item {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
