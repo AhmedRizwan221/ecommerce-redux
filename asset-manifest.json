@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AhmedRizwan221/ecommerce-redux/static/css/main.b3d0f417.css",
+    "main.js": "/AhmedRizwan221/ecommerce-redux/static/js/main.9a731f73.js",
+    "static/js/453.d974eafe.chunk.js": "/AhmedRizwan221/ecommerce-redux/static/js/453.d974eafe.chunk.js",
+    "index.html": "/AhmedRizwan221/ecommerce-redux/index.html",
+    "main.b3d0f417.css.map": "/AhmedRizwan221/ecommerce-redux/static/css/main.b3d0f417.css.map",
+    "main.9a731f73.js.map": "/AhmedRizwan221/ecommerce-redux/static/js/main.9a731f73.js.map",
+    "453.d974eafe.chunk.js.map": "/AhmedRizwan221/ecommerce-redux/static/js/453.d974eafe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3d0f417.css",
+    "static/js/main.9a731f73.js"
+  ]
+}
