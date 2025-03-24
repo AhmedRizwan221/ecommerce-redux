@@ -2,7 +2,7 @@
   "name": "ecommerce-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AhmedRizwan221/ecommerce-redux",
+  "homepage": "https://ahmedrizwan221.github.io/ecommerce-redux",
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.1",
     "@testing-library/dom": "^10.4.0",
