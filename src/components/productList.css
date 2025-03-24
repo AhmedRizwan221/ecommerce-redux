@@ -1,7 +1,15 @@
 .product-list-item {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     text-decoration: none;
     margin-bottom: 10px;
+}
+.add-to-cart-btn {
+    padding: 10px;
+    background: #03A9F4;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
 }
